@@ -3,9 +3,11 @@ Htin Linn Aung
 CSCI 211: OOP in C++, Queens College 
 Project : Using 2D array, 'goto' statement and backtrack concept 
 to find all 92 solutions of putting 8 queens in 8 by 8 chess-board
-without clashing each other on the same column, row and diagonals. 
-Then to print all solutions out by using 1(to present queen)
-and 0(to present no queen) in all squares of the chess-board.
+without clashing each other on the same column, row and diagonals.
+Placing queens on the board goes from left to right. All three tests 
+go from right to left. Then to print all solutions out by using 
+1(to present queen) and 0(to present no queen) in all squares of 
+the chess-board.
 */
 
 #include<iostream>
